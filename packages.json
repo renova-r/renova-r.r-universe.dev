@@ -2,6 +2,21 @@
   {
     "package": "prettyR",
     "url": "https://github.com/renova-r/prettyR",
-    "branch": "renova-2.2.3.9001"
+    "branch": "renova-2.2.3.9002"
+  },
+  {
+    "package": "BBSSL",
+    "url": "https://github.com/renova-r/BBSSL",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "SamplerCompare",
+    "url": "https://github.com/renova-r/SamplerCompare",
+    "branch": "renova-1.3.4.9001"
+  },
+  {
+    "package": "RSGHB",
+    "url": "https://github.com/renova-r/RSGHB",
+    "branch": "renova-1.2.2.9001"
   }
 ]
