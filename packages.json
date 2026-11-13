@@ -37,7 +37,7 @@
   {
     "package": "RSvgDevice",
     "url": "https://github.com/renova-r/RSvgDevice",
-    "branch": "renova-0.6.4.4.9001"
+    "branch": "renova-0.6.4.4.9002"
   },
   {
     "package": "JRF",
@@ -207,7 +207,7 @@
   {
     "package": "effectFusion",
     "url": "https://github.com/renova-r/effectFusion",
-    "branch": "renova-1.1.3.9001"
+    "branch": "renova-1.1.3.9002"
   },
   {
     "package": "fastAdaboost",
@@ -217,7 +217,7 @@
   {
     "package": "glpkAPI",
     "url": "https://github.com/renova-r/glpkAPI",
-    "branch": "renova-1.3.4.9001"
+    "branch": "renova-1.3.4.9002"
   },
   {
     "package": "gpclib",
@@ -227,7 +227,7 @@
   {
     "package": "grr",
     "url": "https://github.com/renova-r/grr",
-    "branch": "renova-0.9.9001"
+    "branch": "renova-0.9.9002"
   },
   {
     "package": "packer",
