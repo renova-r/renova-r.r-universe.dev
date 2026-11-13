@@ -28,5 +28,20 @@
     "package": "reactablefmtr",
     "url": "https://github.com/renova-r/reactablefmtr",
     "branch": "renova-2.0.0.9001"
+  },
+  {
+    "package": "clv",
+    "url": "https://github.com/renova-r/clv",
+    "branch": "renova-0.3.2.5.9001"
+  },
+  {
+    "package": "RSvgDevice",
+    "url": "https://github.com/renova-r/RSvgDevice",
+    "branch": "renova-0.6.4.4.9001"
+  },
+  {
+    "package": "JRF",
+    "url": "https://github.com/renova-r/JRF",
+    "branch": "renova-0.1.4.9001"
   }
 ]
