@@ -18,5 +18,15 @@
     "package": "RSGHB",
     "url": "https://github.com/renova-r/RSGHB",
     "branch": "renova-1.2.2.9001"
+  },
+  {
+    "package": "plogr",
+    "url": "https://github.com/renova-r/plogr",
+    "branch": "renova-0.2.0.9001"
+  },
+  {
+    "package": "reactablefmtr",
+    "url": "https://github.com/renova-r/reactablefmtr",
+    "branch": "renova-2.0.0.9001"
   }
 ]
