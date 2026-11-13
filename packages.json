@@ -43,5 +43,120 @@
     "package": "JRF",
     "url": "https://github.com/renova-r/JRF",
     "branch": "renova-0.1.4.9001"
+  },
+  {
+    "package": "DDoutlier",
+    "url": "https://github.com/renova-r/DDoutlier",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "DynamicGP",
+    "url": "https://github.com/renova-r/DynamicGP",
+    "branch": "renova-1.1.9.9001"
+  },
+  {
+    "package": "ExpDes.pt",
+    "url": "https://github.com/renova-r/ExpDes.pt",
+    "branch": "renova-1.2.2.9001"
+  },
+  {
+    "package": "Fahrmeir",
+    "url": "https://github.com/renova-r/Fahrmeir",
+    "branch": "renova-2016.5.31.9001"
+  },
+  {
+    "package": "NPS",
+    "url": "https://github.com/renova-r/NPS",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "PKPDmodels",
+    "url": "https://github.com/renova-r/PKPDmodels",
+    "branch": "renova-0.3.2.9001"
+  },
+  {
+    "package": "RaProR",
+    "url": "https://github.com/renova-r/RaProR",
+    "branch": "renova-1.1.5.9001"
+  },
+  {
+    "package": "TSdbi",
+    "url": "https://github.com/renova-r/TSdbi",
+    "branch": "renova-2017.4.1.9001"
+  },
+  {
+    "package": "Vdgraph",
+    "url": "https://github.com/renova-r/Vdgraph",
+    "branch": "renova-2.2.7.9001"
+  },
+  {
+    "package": "argon2",
+    "url": "https://github.com/renova-r/argon2",
+    "branch": "renova-0.4.0.9001"
+  },
+  {
+    "package": "biogram",
+    "url": "https://github.com/renova-r/biogram",
+    "branch": "renova-1.6.3.9001"
+  },
+  {
+    "package": "epistasis",
+    "url": "https://github.com/renova-r/epistasis",
+    "branch": "renova-0.0.1.1.9001"
+  },
+  {
+    "package": "genpwr",
+    "url": "https://github.com/renova-r/genpwr",
+    "branch": "renova-1.0.4.9001"
+  },
+  {
+    "package": "iRafNet",
+    "url": "https://github.com/renova-r/iRafNet",
+    "branch": "renova-1.1.1.9001"
+  },
+  {
+    "package": "ivprobit",
+    "url": "https://github.com/renova-r/ivprobit",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "jiebaRD",
+    "url": "https://github.com/renova-r/jiebaRD",
+    "branch": "renova-0.1.9001"
+  },
+  {
+    "package": "kdpee",
+    "url": "https://github.com/renova-r/kdpee",
+    "branch": "renova-1.0.0.9001"
+  },
+  {
+    "package": "mbrglm",
+    "url": "https://github.com/renova-r/mbrglm",
+    "branch": "renova-0.0.1.9001"
+  },
+  {
+    "package": "mcc",
+    "url": "https://github.com/renova-r/mcc",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "mixexp",
+    "url": "https://github.com/renova-r/mixexp",
+    "branch": "renova-1.2.7.1.9001"
+  },
+  {
+    "package": "normtest",
+    "url": "https://github.com/renova-r/normtest",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "ooplah",
+    "url": "https://github.com/renova-r/ooplah",
+    "branch": "renova-0.2.0.9001"
+  },
+  {
+    "package": "unbalanced",
+    "url": "https://github.com/renova-r/unbalanced",
+    "branch": "renova-2.0.9001"
   }
 ]
