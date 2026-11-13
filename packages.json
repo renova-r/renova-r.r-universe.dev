@@ -158,5 +158,140 @@
     "package": "unbalanced",
     "url": "https://github.com/renova-r/unbalanced",
     "branch": "renova-2.0.9001"
+  },
+  {
+    "package": "BASIX",
+    "url": "https://github.com/renova-r/BASIX",
+    "branch": "renova-1.2.9001"
+  },
+  {
+    "package": "DMwR2",
+    "url": "https://github.com/renova-r/DMwR2",
+    "branch": "renova-0.0.2.9001"
+  },
+  {
+    "package": "DiscriMiner",
+    "url": "https://github.com/renova-r/DiscriMiner",
+    "branch": "renova-0.1.29.9001"
+  },
+  {
+    "package": "MultinomialCI",
+    "url": "https://github.com/renova-r/MultinomialCI",
+    "branch": "renova-1.2.9001"
+  },
+  {
+    "package": "PCICt",
+    "url": "https://github.com/renova-r/PCICt",
+    "branch": "renova-0.5.4.4.9001"
+  },
+  {
+    "package": "SummaryLasso",
+    "url": "https://github.com/renova-r/SummaryLasso",
+    "branch": "renova-1.2.1.9001"
+  },
+  {
+    "package": "assertive.base",
+    "url": "https://github.com/renova-r/assertive.base",
+    "branch": "renova-0.0.9.9001"
+  },
+  {
+    "package": "biclust",
+    "url": "https://github.com/renova-r/biclust",
+    "branch": "renova-2.0.3.1.9001"
+  },
+  {
+    "package": "bioPN",
+    "url": "https://github.com/renova-r/bioPN",
+    "branch": "renova-1.2.0.9001"
+  },
+  {
+    "package": "effectFusion",
+    "url": "https://github.com/renova-r/effectFusion",
+    "branch": "renova-1.1.3.9001"
+  },
+  {
+    "package": "fastAdaboost",
+    "url": "https://github.com/renova-r/fastAdaboost",
+    "branch": "renova-1.0.0.9001"
+  },
+  {
+    "package": "glpkAPI",
+    "url": "https://github.com/renova-r/glpkAPI",
+    "branch": "renova-1.3.4.9001"
+  },
+  {
+    "package": "gpclib",
+    "url": "https://github.com/renova-r/gpclib",
+    "branch": "renova-1.5.6.9001"
+  },
+  {
+    "package": "grr",
+    "url": "https://github.com/renova-r/grr",
+    "branch": "renova-0.9.9001"
+  },
+  {
+    "package": "packer",
+    "url": "https://github.com/renova-r/packer",
+    "branch": "renova-0.1.3.9001"
+  },
+  {
+    "package": "rdd",
+    "url": "https://github.com/renova-r/rdd",
+    "branch": "renova-0.57.9001"
+  },
+  {
+    "package": "readxlsb",
+    "url": "https://github.com/renova-r/readxlsb",
+    "branch": "renova-0.1.61.9001"
+  },
+  {
+    "package": "rlme",
+    "url": "https://github.com/renova-r/rlme",
+    "branch": "renova-0.5.9001"
+  },
+  {
+    "package": "rmda",
+    "url": "https://github.com/renova-r/rmda",
+    "branch": "renova-1.6.9001"
+  },
+  {
+    "package": "rucm",
+    "url": "https://github.com/renova-r/rucm",
+    "branch": "renova-0.6.9001"
+  },
+  {
+    "package": "sROC",
+    "url": "https://github.com/renova-r/sROC",
+    "branch": "renova-0.1.2.9001"
+  },
+  {
+    "package": "sdPrior",
+    "url": "https://github.com/renova-r/sdPrior",
+    "branch": "renova-1.0.0.9001"
+  },
+  {
+    "package": "smoother",
+    "url": "https://github.com/renova-r/smoother",
+    "branch": "renova-1.3.9001"
+  },
+  {
+    "package": "survMisc",
+    "url": "https://github.com/renova-r/survMisc",
+    "branch": "renova-0.5.6.9001"
+  },
+  {
+    "package": "tabulate",
+    "url": "https://github.com/renova-r/tabulate",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "twitteR",
+    "url": "https://github.com/renova-r/twitteR",
+    "branch": "renova-1.1.9.9001"
+  },
+  {
+    "package": "vader",
+    "url": "https://github.com/renova-r/vader",
+    "branch": "renova-0.2.1.9001"
   }
 ]
