@@ -418,5 +418,95 @@
     "package": "spanel",
     "url": "https://github.com/renova-r/spanel",
     "branch": "renova-0.1.9001"
+  },
+  {
+    "package": "AMORE",
+    "url": "https://github.com/renova-r/AMORE",
+    "branch": "renova-0.2.16.9001"
+  },
+  {
+    "package": "BTYDplus",
+    "url": "https://github.com/renova-r/BTYDplus",
+    "branch": "renova-1.2.0.9001"
+  },
+  {
+    "package": "CreditMetrics",
+    "url": "https://github.com/renova-r/CreditMetrics",
+    "branch": "renova-0.0.2.9001"
+  },
+  {
+    "package": "MBCluster.Seq",
+    "url": "https://github.com/renova-r/MBCluster.Seq",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "PakPMICS2014HH",
+    "url": "https://github.com/renova-r/PakPMICS2014HH",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "Reliability",
+    "url": "https://github.com/renova-r/Reliability",
+    "branch": "renova-0.0.2.9001"
+  },
+  {
+    "package": "SEER2R",
+    "url": "https://github.com/renova-r/SEER2R",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "SLC",
+    "url": "https://github.com/renova-r/SLC",
+    "branch": "renova-0.3.9001"
+  },
+  {
+    "package": "ascentTraining",
+    "url": "https://github.com/renova-r/ascentTraining",
+    "branch": "renova-1.0.0.9001"
+  },
+  {
+    "package": "infutil",
+    "url": "https://github.com/renova-r/infutil",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "iptools",
+    "url": "https://github.com/renova-r/iptools",
+    "branch": "renova-0.7.2.9001"
+  },
+  {
+    "package": "linLIR",
+    "url": "https://github.com/renova-r/linLIR",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "phaseR",
+    "url": "https://github.com/renova-r/phaseR",
+    "branch": "renova-2.2.1.9001"
+  },
+  {
+    "package": "slickR",
+    "url": "https://github.com/renova-r/slickR",
+    "branch": "renova-0.6.0.9001"
+  },
+  {
+    "package": "hmeasure",
+    "url": "https://github.com/renova-r/hmeasure",
+    "branch": "renova-1.0.2.9001"
+  },
+  {
+    "package": "plus",
+    "url": "https://github.com/renova-r/plus",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "netcoh",
+    "url": "https://github.com/renova-r/netcoh",
+    "branch": "renova-0.2.9001"
+  },
+  {
+    "package": "cggd",
+    "url": "https://github.com/renova-r/cggd",
+    "branch": "renova-0.8.9001"
   }
 ]
