@@ -293,5 +293,130 @@
     "package": "vader",
     "url": "https://github.com/renova-r/vader",
     "branch": "renova-0.2.1.9001"
+  },
+  {
+    "package": "PakPMICS2014Ch",
+    "url": "https://github.com/renova-r/PakPMICS2014Ch",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "VIF",
+    "url": "https://github.com/renova-r/VIF",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "VarBundle",
+    "url": "https://github.com/renova-r/VarBundle",
+    "branch": "renova-0.3.0.9001"
+  },
+  {
+    "package": "adaptMT",
+    "url": "https://github.com/renova-r/adaptMT",
+    "branch": "renova-1.0.0.9001"
+  },
+  {
+    "package": "allelic",
+    "url": "https://github.com/renova-r/allelic",
+    "branch": "renova-0.1.9001"
+  },
+  {
+    "package": "datastepr",
+    "url": "https://github.com/renova-r/datastepr",
+    "branch": "renova-0.0.2.9001"
+  },
+  {
+    "package": "eider",
+    "url": "https://github.com/renova-r/eider",
+    "branch": "renova-1.0.0.9001"
+  },
+  {
+    "package": "erratum",
+    "url": "https://github.com/renova-r/erratum",
+    "branch": "renova-2.2.0.9001"
+  },
+  {
+    "package": "esaBcv",
+    "url": "https://github.com/renova-r/esaBcv",
+    "branch": "renova-1.2.1.1.9001"
+  },
+  {
+    "package": "fuzzyFDR",
+    "url": "https://github.com/renova-r/fuzzyFDR",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "ggheatmap",
+    "url": "https://github.com/renova-r/ggheatmap",
+    "branch": "renova-2.2.9001"
+  },
+  {
+    "package": "gmeta",
+    "url": "https://github.com/renova-r/gmeta",
+    "branch": "renova-2.3.1.9001"
+  },
+  {
+    "package": "het.test",
+    "url": "https://github.com/renova-r/het.test",
+    "branch": "renova-0.1.9001"
+  },
+  {
+    "package": "hydrogeo",
+    "url": "https://github.com/renova-r/hydrogeo",
+    "branch": "renova-0.6.1.9001"
+  },
+  {
+    "package": "mcmcplots",
+    "url": "https://github.com/renova-r/mcmcplots",
+    "branch": "renova-0.4.3.9001"
+  },
+  {
+    "package": "medicalrisk",
+    "url": "https://github.com/renova-r/medicalrisk",
+    "branch": "renova-1.3.9001"
+  },
+  {
+    "package": "mmpf",
+    "url": "https://github.com/renova-r/mmpf",
+    "branch": "renova-0.0.5.9001"
+  },
+  {
+    "package": "modelgrid",
+    "url": "https://github.com/renova-r/modelgrid",
+    "branch": "renova-1.2.0.9001"
+  },
+  {
+    "package": "namedropR",
+    "url": "https://github.com/renova-r/namedropR",
+    "branch": "renova-2.4.1.9001"
+  },
+  {
+    "package": "nodeHarvest",
+    "url": "https://github.com/renova-r/nodeHarvest",
+    "branch": "renova-0.7.3.9001"
+  },
+  {
+    "package": "relaxo",
+    "url": "https://github.com/renova-r/relaxo",
+    "branch": "renova-0.1.2.9001"
+  },
+  {
+    "package": "ri",
+    "url": "https://github.com/renova-r/ri",
+    "branch": "renova-0.9.9001"
+  },
+  {
+    "package": "rjmcmc",
+    "url": "https://github.com/renova-r/rjmcmc",
+    "branch": "renova-0.4.5.9001"
+  },
+  {
+    "package": "rpatrec",
+    "url": "https://github.com/renova-r/rpatrec",
+    "branch": "renova-1.0.1.9001"
+  },
+  {
+    "package": "spanel",
+    "url": "https://github.com/renova-r/spanel",
+    "branch": "renova-0.1.9001"
   }
 ]
