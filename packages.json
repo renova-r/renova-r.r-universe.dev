@@ -387,7 +387,7 @@
   {
     "package": "namedropR",
     "url": "https://github.com/renova-r/namedropR",
-    "branch": "renova-2.4.1.9001"
+    "branch": "renova-2.4.1.9002"
   },
   {
     "package": "nodeHarvest",
@@ -472,7 +472,7 @@
   {
     "package": "iptools",
     "url": "https://github.com/renova-r/iptools",
-    "branch": "renova-0.7.2.9001"
+    "branch": "renova-0.7.2.9002"
   },
   {
     "package": "linLIR",
