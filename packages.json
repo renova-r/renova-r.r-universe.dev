@@ -377,7 +377,7 @@
   {
     "package": "mmpf",
     "url": "https://github.com/renova-r/mmpf",
-    "branch": "renova-0.0.5.9001"
+    "branch": "renova-0.0.5.9002"
   },
   {
     "package": "modelgrid",
@@ -422,12 +422,12 @@
   {
     "package": "AMORE",
     "url": "https://github.com/renova-r/AMORE",
-    "branch": "renova-0.2.16.9001"
+    "branch": "renova-0.2.16.9002"
   },
   {
     "package": "BTYDplus",
     "url": "https://github.com/renova-r/BTYDplus",
-    "branch": "renova-1.2.0.9001"
+    "branch": "renova-1.2.0.9002"
   },
   {
     "package": "CreditMetrics",
