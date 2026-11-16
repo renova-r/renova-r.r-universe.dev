@@ -533,5 +533,70 @@
     "package": "MRMR",
     "url": "https://github.com/renova-r/MRMR",
     "branch": "renova-0.1.4.9001"
+  },
+  {
+    "package": "lvec",
+    "url": "https://github.com/renova-r/lvec",
+    "branch": "renova-0.2.5.9001"
+  },
+  {
+    "package": "MVTests",
+    "url": "https://github.com/renova-r/MVTests",
+    "branch": "renova-2.3.1.9001"
+  },
+  {
+    "package": "rolypoly",
+    "url": "https://github.com/renova-r/rolypoly",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "GenKern",
+    "url": "https://github.com/renova-r/GenKern",
+    "branch": "renova-1.2.60.9001"
+  },
+  {
+    "package": "EMVS",
+    "url": "https://github.com/renova-r/EMVS",
+    "branch": "renova-1.2.1.9001"
+  },
+  {
+    "package": "vegetarian",
+    "url": "https://github.com/renova-r/vegetarian",
+    "branch": "renova-1.2.9001"
+  },
+  {
+    "package": "laercio",
+    "url": "https://github.com/renova-r/laercio",
+    "branch": "renova-1.0.1.9001"
+  },
+  {
+    "package": "spi",
+    "url": "https://github.com/renova-r/spi",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "TESS",
+    "url": "https://github.com/renova-r/TESS",
+    "branch": "renova-2.1.2.9001"
+  },
+  {
+    "package": "colortools",
+    "url": "https://github.com/renova-r/colortools",
+    "branch": "renova-0.1.5.9001"
+  },
+  {
+    "package": "Interpol",
+    "url": "https://github.com/renova-r/Interpol",
+    "branch": "renova-1.3.1.9001"
+  },
+  {
+    "package": "BBMM",
+    "url": "https://github.com/renova-r/BBMM",
+    "branch": "renova-3.0.9001"
+  },
+  {
+    "package": "EcoVirtual",
+    "url": "https://github.com/renova-r/EcoVirtual",
+    "branch": "renova-1.1.9001"
   }
 ]
