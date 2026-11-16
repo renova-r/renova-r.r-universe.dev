@@ -508,5 +508,30 @@
     "package": "cggd",
     "url": "https://github.com/renova-r/cggd",
     "branch": "renova-0.8.9001"
+  },
+  {
+    "package": "pwr2",
+    "url": "https://github.com/renova-r/pwr2",
+    "branch": "renova-1.0.9001"
+  },
+  {
+    "package": "veccompare",
+    "url": "https://github.com/renova-r/veccompare",
+    "branch": "renova-0.1.0.9001"
+  },
+  {
+    "package": "BHH2",
+    "url": "https://github.com/renova-r/BHH2",
+    "branch": "renova-2016.5.31.9001"
+  },
+  {
+    "package": "OpenMPController",
+    "url": "https://github.com/renova-r/OpenMPController",
+    "branch": "renova-0.2.5.9001"
+  },
+  {
+    "package": "MRMR",
+    "url": "https://github.com/renova-r/MRMR",
+    "branch": "renova-0.1.4.9001"
   }
 ]
