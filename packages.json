@@ -708,5 +708,11 @@
     "package": "MOSS",
     "url": "https://github.com/renova-r/MOSS",
     "branch": "renova-0.2.2.9001"
+  },
+  {
+    "package": "penalizedLDA",
+    "url": "https://github.com/cran/penalizedLDA",
+    "branch": "7f3d3654660329d799272252d3c1120f77c27cc6",
+    "noindex": true
   }
 ]
