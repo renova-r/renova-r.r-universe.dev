@@ -703,5 +703,10 @@
     "package": "rnoaa",
     "url": "https://github.com/renova-r/rnoaa",
     "branch": "renova-1.4.0.9001"
+  },
+  {
+    "package": "MOSS",
+    "url": "https://github.com/renova-r/MOSS",
+    "branch": "renova-0.2.2.9001"
   }
 ]
