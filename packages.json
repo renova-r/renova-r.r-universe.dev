@@ -622,12 +622,12 @@
   {
     "package": "AbSim",
     "url": "https://github.com/renova-r/AbSim",
-    "branch": "renova-0.2.6.9001"
+    "branch": "renova-0.2.6.9002"
   },
   {
     "package": "ALEPlot",
     "url": "https://github.com/renova-r/ALEPlot",
-    "branch": "renova-1.1.9001"
+    "branch": "renova-1.1.9002"
   },
   {
     "package": "allan",
