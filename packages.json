@@ -598,5 +598,105 @@
     "package": "EcoVirtual",
     "url": "https://github.com/renova-r/EcoVirtual",
     "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "scalreg",
+    "url": "https://github.com/renova-r/scalreg",
+    "branch": "renova-1.0.1.9001"
+  },
+  {
+    "package": "rwt",
+    "url": "https://github.com/renova-r/rwt",
+    "branch": "renova-1.0.2.9001"
+  },
+  {
+    "package": "RClone",
+    "url": "https://github.com/renova-r/RClone",
+    "branch": "renova-1.0.3.9001"
+  },
+  {
+    "package": "heatmap.plus",
+    "url": "https://github.com/renova-r/heatmap.plus",
+    "branch": "renova-1.3.9001"
+  },
+  {
+    "package": "AbSim",
+    "url": "https://github.com/renova-r/AbSim",
+    "branch": "renova-0.2.6.9001"
+  },
+  {
+    "package": "ALEPlot",
+    "url": "https://github.com/renova-r/ALEPlot",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "allan",
+    "url": "https://github.com/renova-r/allan",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "ALSM",
+    "url": "https://github.com/renova-r/ALSM",
+    "branch": "renova-0.2.0.9001"
+  },
+  {
+    "package": "batade",
+    "url": "https://github.com/renova-r/batade",
+    "branch": "renova-0.1.9001"
+  },
+  {
+    "package": "bgmm",
+    "url": "https://github.com/renova-r/bgmm",
+    "branch": "renova-1.8.5.9001"
+  },
+  {
+    "package": "clusteval",
+    "url": "https://github.com/renova-r/clusteval",
+    "branch": "renova-0.1.9001"
+  },
+  {
+    "package": "fgpt",
+    "url": "https://github.com/renova-r/fgpt",
+    "branch": "renova-2.3.9001"
+  },
+  {
+    "package": "momr",
+    "url": "https://github.com/renova-r/momr",
+    "branch": "renova-1.1.9001"
+  },
+  {
+    "package": "POUMM",
+    "url": "https://github.com/renova-r/POUMM",
+    "branch": "renova-2.1.8.9001"
+  },
+  {
+    "package": "PPtree",
+    "url": "https://github.com/renova-r/PPtree",
+    "branch": "renova-2.3.0.9001"
+  },
+  {
+    "package": "QuasiSeq",
+    "url": "https://github.com/renova-r/QuasiSeq",
+    "branch": "renova-1.0.11.0.9001"
+  },
+  {
+    "package": "rknn",
+    "url": "https://github.com/renova-r/rknn",
+    "branch": "renova-1.2.1.9001"
+  },
+  {
+    "package": "sbioPN",
+    "url": "https://github.com/renova-r/sbioPN",
+    "branch": "renova-1.1.0.9001"
+  },
+  {
+    "package": "seqRFLP",
+    "url": "https://github.com/renova-r/seqRFLP",
+    "branch": "renova-1.0.1.9001"
+  },
+  {
+    "package": "SparkR",
+    "url": "https://github.com/renova-r/SparkR",
+    "branch": "renova-3.1.2.9001"
   }
 ]
