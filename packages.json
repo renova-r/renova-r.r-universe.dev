@@ -698,5 +698,10 @@
     "package": "SparkR",
     "url": "https://github.com/renova-r/SparkR",
     "branch": "renova-3.1.2.9001"
+  },
+  {
+    "package": "rnoaa",
+    "url": "https://github.com/renova-r/rnoaa",
+    "branch": "renova-1.4.0.9001"
   }
 ]
